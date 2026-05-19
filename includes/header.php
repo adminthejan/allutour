@@ -19,5 +19,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Petrona:wght@100..900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.5.0/remixicon.css" integrity="sha512-6p+GTq7fjTHD/sdFPWHaFoALKeWOU9f9MPBoPnvJEWBkGS4PKVVbCpMps6IXnTiXghFbxlgDE8QRHc3MU91lJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!-- WhatsApp Widget -->
+<script src="https://cdn.jsdelivr.net/npm/simple-whatsapp-widget@5.4.2/dist/simple-whatsapp-widget.min.js" defer></script>
+<link href="https://cdn.jsdelivr.net/npm/simple-whatsapp-widget@5.4.2/dist/simple-whatsapp-widget.min.css" rel="stylesheet">
 </head>
 <body>
