@@ -262,6 +262,26 @@
 
       </div>
     </div>
+
+    <!-- Map Section -->
+    <div class="relative z-20 w-full px-6 sm:px-12 pb-12">
+      <div class="container mx-auto">
+        <h3 class="text-2xl md:text-3xl font-bold mb-4 text-center text-black" style="font-family: 'Lora', serif;">Find Us</h3>
+        <p class="text-center text-black font-semibold mb-6" style="font-family: 'Lora', serif;">170/6, Kondagammulla, Demanhandiya, Sri Lanka</p>
+        <div class="w-full overflow-hidden border-4 border-white shadow-lg" style="border-radius: 4px;">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3!2d79.869467!3d7.22084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2eede984ee589%3A0x44a4c9c790a83abc!2sAlluring%20Tours!5e0!3m2!1sen!2slk!4v1716000000000!5m2!1sen!2slk"
+            width="100%"
+            height="400"
+            style="border:0;"
+            allowfullscreen=""
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Alluring Tours Location">
+          </iframe>
+        </div>
+      </div>
+    </div>
   </div>
 
 
